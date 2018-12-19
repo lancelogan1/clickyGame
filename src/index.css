@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("./public/assets/pics/tp.jpg"); */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.App {
+  background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi67qOyhKrfAhUH0KwKHbwJAZUQjRx6BAgBEAU&url=https%3A%2F%2Fwallpaperplay.com%2Fboard%2Ftwin-peaks-wallpapers&psig=AOvVaw2w4OPWpgikwQKW-YF3VXXO&ust=1545245005777559");
+  background:rgba(84, 0, 0, 0.797);
+}
+
+.App-header {
+  /* background-color: blueviolet; */
+  background-image: url("https://wallpaperplay.com/walls/full/6/4/4/43877.jpg");
+}
+
+.App-title {
+  font-size: 250px;
+  color: rgba(199, 199, 199, 0.529);
+}
+
+p {
+  color: rgba(230, 230, 230, 0.694);
+}
+
+.card {
+  border-style: solid;
+  border-width: 5px;
+  background-color: rgba(55, 0, 0, 0.797);
+  margin-top: 5px;
+}

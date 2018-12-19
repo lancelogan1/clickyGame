@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Alien",
+        "image": "../public/assets/pics/alien.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Audry Horne",
+        "image": "../public/assets/pics/audry.jpg"
+    },{
+        "id": 3,
+        "name": "Bob",
+        "image": "../public/assets/pics/bob.jpg"
+    },{
+        "id": 4,
+        "name": "Agent Cooper",
+        "image": "../public/assets/pics/cooper.jpg"
+    },{
+        "id": 5,
+        "name": "Deep Throat",
+        "image": "../public/assets/pics/deepthroat.jpg"
+    },{
+        "id": 6,
+        "name": "Laura Palmer",
+        "image": "../public/assets/pics/laurapalmer.jpg"
+    },{
+        "id": 7,
+        "name": "David Lynch",
+        "image": "../public/assets/pics/lynch.jpg"
+    },{
+        "id": 8,
+        "name": "Foxx Mulder",
+        "image": "../public/assets/pics/mulder.jpg"
+    },{
+        "id": 9,
+        "name": "Agent Skinner",
+        "image": "../public/assets/pics/skinner.jpg"
+    },{
+        "id": 10,
+        "name": "Dana Skully",
+        "image": "../public/assets/pics/skully.jpg"
+    },{
+        "id": 11,
+        "name": "Ciggerette Smoking Man",
+        "image": "../public/assets/pics/smokingman.jpg"
+    },{
+        "id": 12,
+        "name": "Conspiracy Theory Dudes",
+        "image": "../public/assets/pics/theory.jpg"
+    }
+]
