@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lancelogan1.github.io/clickyGame/",
+  "homepage": "https://lancelogan1.github.io/c          lickyGame/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
